@@ -5,10 +5,10 @@ import time
 import re
 
 # Load model + vectorizer
-with open(r"C:\Users\Top10\Downloads\rfc_model.pkl", "rb") as f:
+with open(r"rfc_model.pkl", "rb") as f:
     model=pickle.load(f)
     
-with open(r"C:\Users\Top10\Desktop\Twitter-Sentiment-Analysis-1\vectorizor.pkl","rb") as f:
+with open(r"vectorizor.pkl","rb") as f:
     vectorizor = pickle.load(f)
     
 
