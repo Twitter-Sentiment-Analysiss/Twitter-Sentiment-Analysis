@@ -16,7 +16,7 @@ import contractions
 # ---------------------------------------------------
 # 2️⃣ Load Model + Tokenizer
 # ---------------------------------------------------
-model = joblib.load("LSTM.pkl")
+model = joblib.load("best_model.h5")
 
 # VERY IMPORTANT: load the same tokenizer used in training
 tokenizer = joblib.load("tokenizer.pkl")
