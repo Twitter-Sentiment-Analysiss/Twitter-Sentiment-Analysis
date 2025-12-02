@@ -56,21 +56,8 @@ Stratified sampling + k-fold cross-validation
 
 Class imbalance handling (SMOTE / undersampling)
 
-🧭 4. Unsupervised Learning & Topic Modeling
 
-Discovering hidden patterns & emerging themes:
-
-LDA with 15–20 topics
-
-KMeans clustering (k=10)
-
-NMF for additive topic discovery
-
-pyLDAvis for interactive topic visualization
-
-Human-in-the-loop evaluation for topic quality
-
-🤯 5. Deep Learning Models
+🤯 4. Deep Learning Models
 
 State-of-the-art architectures for tweet sentiment:
 
@@ -84,7 +71,7 @@ Attention-based models for explainable predictions
 
 Comparison against ML baselines
 
-🖥️ 6. Streamlit Real-Time Dashboard
+🖥️ 5. Streamlit Real-Time Dashboard
 
 A production-ready dashboard for instant analysis:
 
